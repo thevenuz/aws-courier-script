@@ -1,0 +1,12 @@
+{
+    "Host" : "aws public ip",
+    "Port" : "",
+    "Useranme" : "useranme",
+    "KeyPath" : "RSA private key path",
+    "LocalPath" : [
+        "Local path folder"
+    ],
+    "RemotePath" : [
+        "Remote path location in aws linux server"
+    ]
+}
